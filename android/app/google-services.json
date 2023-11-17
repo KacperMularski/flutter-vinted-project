@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1942349958",
+    "project_id": "vinted-de739",
+    "storage_bucket": "vinted-de739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1942349958:android:eb66d185f4b5d0b0da4907",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vinted_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QxYxPvSGZZluO9vm47uW6vFL4UyyS1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
